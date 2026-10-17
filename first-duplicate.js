@@ -9,5 +9,5 @@ function firstDuplicate(arr) {
   return -1;
 }
 
-console.log(firstDuplicate([3, 8, 1, 8, 5])); // expect 8
-console.log(firstDuplicate([1, 2, 3]));       // expect -1
+console.log(firstDuplicate([3, 8, 1, 8, 5]));
+console.log(firstDuplicate([1, 2, 3]));
